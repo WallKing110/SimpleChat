@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Files\C++\libs\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'main.cpp')
+  D:\Programs\VS\VC\Tools\MSVC\14.39.33519\include\stdexcept(100,19):
+  see declaration of 'std::runtime_error'
+  D:\Files\C++\libs\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+  see declaration of 'sf::Exception'
+  
+  OnlineChat.vcxproj -> D:\Files\C++\projects\OnlineChat\Debug\OnlineChat.exe
